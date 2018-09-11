@@ -1,2 +1,3 @@
-# coral-tecnologia-site
+# Coral Tecnologia
+
 Site da Coral Tecnologia
